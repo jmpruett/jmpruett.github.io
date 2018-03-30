@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> Jasmine's Hours</title>
+	<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+	<style type="text/css">
+			body 			{background-image: Url("background.png"); Background-size: 100%;}
+			P				{font-family: "Georgia",serif; text-align:center; margin:5%}
+			.Main_head		{font-family: 'Tangerine'; font-size: 150px;}
+			IMG 			{height: 500px; width: 500px; margin-top:50px;}
+			.Jasmine		{font-family: 'Tangerine';font-size: 28px;}
+	
+	</style>
+	</head>
+<body>
+<div class= Main_head Style= margin-center> Jasmine's Hours </div>
+	<table><TR><TD>Monday</td><Td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td></TR>
+  <TR><TD>2 pm - 5 pm</td><Td>1:30 pm - 5 pm</td><td>2 pm - 5 pm</td><td>1:30 pm - 5 pm</td><td>1 pm - 4 pm</td></TR></table>
+
+</body>
+</html>
